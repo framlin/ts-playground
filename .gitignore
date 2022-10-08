@@ -1,0 +1,13 @@
+# Project exclude paths
+/observation/Observable.js
+/observation/Observable.js.map
+/observation/Observatory.js
+/observation/Observatory.js.map
+/observation/Observer.js
+/observation/Observer.js.map
+/observation/Subject.js
+/observation/Subject.js.map
+/A.js
+/A.js.map
+/index.js
+/index.js.map
